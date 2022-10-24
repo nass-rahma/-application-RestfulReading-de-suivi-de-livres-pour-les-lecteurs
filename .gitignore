@@ -37,7 +37,7 @@ class Book {
 
 //Création  d'au moins trois instances (livres)
 let livrePremier = new Book("La femme gelée","Annie Ernaux","Autobigraphie d'une femme déterminée",181, 5,false);
-let livreSecond = new Book("Larmes","Mariame Ba","Lauren Kate","Una mour interdit et un secret englouti",513, 1,false);
+let livreSecond = new Book("Larmes","Lauren Kate","Un amour interdit et un secret englouti",513, 1,false);
 let livrePTroisieme = new Book("Micromégas La princesse de Babylone","Voltaire","voyage interplanétaire et comparaison des systèmes politiques",224, 9,false);
 
 // Stockage des livres dans un tableau
